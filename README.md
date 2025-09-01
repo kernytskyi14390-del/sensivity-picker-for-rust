@@ -1,3 +1,3 @@
 # sensivity-picker-for-rust
 sens picker by chloride for rust discord  @dildobrazhnik_im
-<img width="739" height="918" alt="image" src="https://github.com/user-attachments/assets/3276c04f-b98a-495f-9181-cce8809ec539" />
+<img width="666" height="909" alt="image" src="https://github.com/user-attachments/assets/3a890c00-1b6c-4f4a-977a-29742343c210" />
